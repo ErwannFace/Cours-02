@@ -1,4 +1,5 @@
 # Glossaire
+## Accessibilité
 ## AJAX
 Asynchronous JAvascript and Xml, permet de construire des applications Web et des sites web dynamiques interactifs sur le poste client en se servant de différentes technologies.
 
@@ -62,6 +63,7 @@ Un framework se distingue d'une simple bibliothèque logicielle principalement p
 Principalement employé dans les pages web interactives mais aussi pour les serveurs avec l'utilisation de NodeJs.
 Ce langage est orienté objet à prototype, c'est-à-dire que les bases du langage et ses principales interfaces sont fournies par des objets qui ne sont pas des instances de classes, mais qui sont chacun équipés de constructeurs permettant de créer leurs propriétés, et notamment une propriété de prototypage qui permet d'en créer des objets héritiers personnalisés. 
 
+## JSON
 ## Log
 
 ## Markdown
@@ -127,4 +129,6 @@ Le Test Unitaire est une procédure permettant de vérifier le bon fonctionnemen
 ## Versionning
 ## Virtualisation
 ## XML
-
+## XSLT
+## Wireframe
+## Yaml

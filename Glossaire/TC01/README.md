@@ -1,0 +1,159 @@
+<!---
+MARKDOWN : Master document.
+ASCIIDOC : Display in github. Not meant for modification.
+-->
+
+# Glossaire
+## Accessibilité
+L'accessibilité du web est la problématique de l'accès aux services et contenus en ligne non seulement pour les personnes handicapées et les seniors, mais aussi de manière plus générale pour tous les utilisateurs qui ne disposent pas du confort offert par un ordinateur de bureau situé dans une pièce tranquilleW3C 1. En effet, son application concerne également les utilisateurs non-handicapés placés dans des situations moins confortables comme avec un téléphone mobile, une tabletteW3C 2… ou placés en situation particulière de bruit, de dimension d’affichage, etc. Définie par des normes techniques établies par la Web Accessibility Initiative (WAI) du World Wide Web Consortium (W3C), elle nécessite un traitement tout au long du cycle de vie d'un site web, par l'ensemble de ses acteurs, via des méthodes d'applications, des référentiels métiers et une démarche de suivi
+
+## Algorithmie
+Un algorithme est une suite finie et non-ambiguë d’instructions permettant de donner la réponse à un problème.
+
+## AngularJS
+Framework JavaScript libre et open-source développé par Google.
+
+## API
+Une interface de programmation applicative est un ensemble normalisé de classes, de méthodes ou de fonctions qui sert de façade par laquelle un logiciel offre des services à d'autres logiciels. Elle est offerte par une bibliothèque logicielle ou un service web, le plus souvent accompagnée d'une description qui spécifie comment des programmes consommateurs peuvent se servir des fonctionnalités du programme fournisseur.
+
+## Application
+Une application est un programme (ou un ensemble logiciel) directement utilisé par l'utilisateur pour réaliser une tâche, ou un ensemble de tâches élémentaires d'un même domaine ou formant un tout. Typiquement, un éditeur de texte, un navigateur web, un lecteur multimédia, un jeu vidéo, sont des applications. Les applications s'exécutent en utilisant les services du système d'exploitation pour utiliser les ressources matérielles.
+
+## Ascii
+L'American Standard Code for Information Interchange,  est une norme informatique de codage de caractères apparue dans les années 1960. C'est la norme de codage de caractères la plus influente à ce jour. 
+
+## Base de Données
+Une base de données est un outil permettant de stocker et de retrouver l'intégralité de données brutes ou d'informations en rapport avec un thème ou une activité ; celles-ci peuvent être de natures différentes et plus ou moins reliées entre elles1,2. Dans la très grande majorité des cas, ces informations sont très structurées, et la base est localisée dans un même lieu et sur un même support.
+
+## Chemin (relative & absolute)
+## CSS
+Les feuilles de style en cascade1, généralement appelées CSS de l'anglais Cascading Style Sheets, forment un langage informatique qui décrit la présentation des documents HTML et XML. Les standards définissant CSS sont publiés par le World Wide Web Consortium (W3C).
+
+## Doctype
+Un doctype (contraction de l'anglais document type, littéralement « type de document ») est une instruction au début des documents SGML et XML (comme les page web) spécifiant sa DTD : les règles de sa syntaxe.
+
+## Dossier / Fichiers
+## Droit d'accès
+Chaque fichier est associé une liste de permissions, qui déterminent ce que chaque utilisateur/groupe a le droit de faire du fichier.
+
+Les droits sont répartis en trois catégories :
+ * Lecture (Read)
+ * Ecriture (Write) 
+ * Execution (execute).
+
+## Fonction
+Une fonction est une portion de code qui effectue une tâche ou un calcul relativement indépendant du reste du programme ;
+
+## IDE
+En programmation informatique, un environnement de développement integré (Integrated Development Environment) est un ensemble d'outils pour augmenter la productivité des programmeurs qui développent des logiciels. L'objectif d'un environnement de développement est d'augmenter la productivité des programmeurs en automatisant une partie des activités et en simplifiant les opérations.
+
+## Inspecteur d'éléments
+L'inspecteur sert à examiner et modifier l'HTML et le CSS d'une page web.
+Au sein de Firefox ou Google Chrome, ouvrez un navigateur et faites F12.
+Il permet entre autre : 
+	* De tester la compatibilité en résolution
+	* D'examiner et modifier du HTML
+	* D'examiner et modifier du CSS
+	* D'examiner et modifier du JS	
+	* Analyser les performances ou les anomalies réseau.
+	
+## JavaScript
+Principalement employé dans les pages web interactives mais aussi pour les serveurs avec l'utilisation de NodeJs.
+Ce langage est orienté objet à prototype, c'est-à-dire que les bases du langage et ses principales interfaces sont fournies par des objets qui ne sont pas des instances de classes, mais qui sont chacun équipés de constructeurs permettant de créer leurs propriétés, et notamment une propriété de prototypage qui permet d'en créer des objets héritiers personnalisés. 
+
+## Log
+Historique d'événements et par extension le fichier contenant cet historique,
+
+## Markdown
+Markdown est un langage de balisage léger. Son but est d'offrir une syntaxe facile à lire et à écrire. 
+
+## Méthode Agile
+Les méthodes agiles sont des groupes de pratiques de pilotage et de réalisation de projets.Les méthodes agiles se veulent plus pragmatiques que les méthodes traditionnelles. Elles impliquent au maximum le demandeur (client) et permettent une grande réactivité à ses demandes.
+
+Les méthodes agiles reposent sur un cycle de développement itératif, incrémental et adaptatif. 
+
+## MySQL
+MySQL est un système de gestion de bases de données relationnelles (SGBDR). Il est distribué sous une double licence GPL et propriétaire. Il fait partie des logiciels de gestion de base de données les plus utilisés au monde, autant par le grand public (applications web principalement) que par des professionnels.
+
+## OS : Système d'Exploitation (Operating System)
+Le système d'exploitation est le premier programme exécuté lors de la mise en marche de l'ordinateur. Chaque OS a des avantages et des inconvénients. 
+Vous connaissez probablement Windows mais il y en a de nombreux : 
+ * Windows
+ * Linux
+ * Android
+ * Mac OS
+ * Symbian
+ * ...
+
+## Paramètre de fonction
+Un paramètre est une donnée manipulée par une section de code.
+Par exemple les variables a et b sont des paramètres de fonction dans le bloc de code 
+```php
+	function multiplie(a,b){ 
+		return a*b; 
+	}
+```
+## PHP
+PHP: Hypertext Preprocessor. Langage de programmation libre, principalement utilisé pour produire des pages Web dynamiques via un serveur HTTP (nginx, apache).
+
+## Processus
+Un processus (en anglais, process), en informatique, est un programme en cours d'exécution par un ordinateur. De façon plus précise, il peut être défini comme :
+
+* Un ensemble d'instructions à exécuter
+* un espace d'adressage en mémoire vive pour stocker la pile, les données de travail, etc. ;
+* des ressources telles que les ports réseau.
+
+L'exécution d'un processus dure un certain temps, avec un début et (parfois) une fin. Un processus peut être démarré par un utilisateur par l'intermédiaire d'un périphérique ou bien par un autre processus : les « applications » utilisateur sont des ensembles de processus.
+
+## Référencement web
+Il existe plusieurs objectifs au référencement web et à l'optimisation des moteurs de recherche :
+
+ * Créer de la visibilité pour un site web sur les moteurs de recherche comme Google, Bing ou Qwant ;
+ * Multiplier le nombre de visites de son site internet ;
+ * Développer la popularité et la notoriété d’une personne physique ou d'une personne morale ;
+ * Communiquer en ligne auprès d’une nouvelle cible d'internautes ;
+ * Accroître le chiffre d’affaires web d’une entreprise au travers du e-commerce ou de la publicité en ligne.
+ * Nettoyer en cas de besoin la e-réputation d'une personne physique ou morale.
+cf. SEO, SEA, SMO
+
+## Requête
+
+## Serveur d'application
+
+
+## SQL
+
+## SSH
+
+## TDD
+Test-driven development (TDD) ou en français développement piloté par les tests est une technique de développement de logiciel qui préconise d'écrire les tests unitaires avant d'écrire le code source d'un logiciel.
+Le cycle préconisé par TDD comporte cinq étapes :
+
+* écrire un premier test ;
+* vérifier qu'il échoue (car le code qu'il teste n'existe pas), afin de vérifier que le test est valide ;
+* écrire juste le code suffisant pour passer le test ;
+* vérifier que le test passe ;
+* puis réusiner le code, c'est-à-dire l'améliorer tout en gardant les mêmes fonctionnalités.
+
+## Terminal
+Il désigne par abus de langage une fenêtre d'invite de commande contenant un shell Unix.
+
+## Test Unitaire
+Le Test Unitaire est une procédure permettant de vérifier le bon fonctionnement d'une partie précise d'un logiciel ou d'une portion d'un programme (appelée « unité » ou « module »).
+
+## UI/UX
+Expérience utilisateur (User eXperience) et interface utilisateur (User Interface) en bon françois.
+L’interface utilisateur, c’est ce qui fait le lien entre l’humain et la machine. Pour simplifier, l’UI se résume à l’organisation des éléments graphiques et textuels pour proposer un package attrayant.
+L’UI n’est clairement pas suffisant. C’est comme si vous emballiez d’un joli papier cadeau un carton… vide. Ainsi l'UX peut se résumer à réfléchir à une conception centrée utilisateur,  considérant avant tout les besoins de l’utilisateur.
+
+## URL / URI
+Uniform Resource Locato rauquel se substitue informellement l'expression ```adresse web```, désigne une chaîne de caractères utilisée pour adresser les ressources du World Wide Web
+
+## Variable
+Les variables sont des symboles qui associent un nom (l'identifiant) à une valeur. La valeur peut être de quelque type de donnée que ce soit. Le nom doit être un identifiant unique (et si le langage en possède, différents des mots-réservés).
+
+## Versionning
+Il s'agit du mécanisme qui consiste à conserver la version d'une entité logicielle quelconque, de façon à pouvoir la retrouver facilement, même après l'apparition et la mise en place de versions plus récentes.
+
+## Virtualisation
+La virtualisation consiste à faire fonctionner un ou plusieurs systèmes d'exploitation1 / applications comme un simple logiciel, sur un ou plusieurs ordinateurs2 - serveurs / système d'exploitation, au lieu de ne pouvoir en installer qu'un seul par machine. Ces ordinateurs virtuels sont appelés serveur privé virtuel (Virtual Private Server ou VPS) ou encore environnement virtuel (Virtual Environment ou VE).
